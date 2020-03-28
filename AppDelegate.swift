@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Dicee-iOS13
+//  Dice Roller
 //
-//  Created by Angela Yu on 11/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Nicholas McGinnis on 12/04/2017.
+//  Copyright © 2017 Sinnig Media. All rights reserved.
 //
 
 import UIKit
